@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @PrafullaPrabhat7
 - 👀 I’m interested in WebDevelopment
-- 🌱 I’m currently learning ReactJs, .net, HTML, CSS, JavaScript
+- 🌱 I’m currently learning ReactJs, .net, HTML, CSS, JavaScript, Reactjs, MongoDb
 - 📫 How to reach me email - prafullaprabhat4@gmail.com
 
 <!---
